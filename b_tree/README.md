@@ -174,9 +174,9 @@ void buildTreeFromCSV(BTreeNode*& root, const string& filename) {
 
 ## Grafico comparacion Insertion
 Este grafico muestra la comparacion cuando el valor de la variable MAX_KEYS es alterado con los siguientes valores (3-4-5).
-![Comparación de Inserción]("C:\Users\ASUS\ed\Estructura-de-datos\b_tree\grafico_insertion.png")
+![Comparación de Inserción](b_tree/grafico_insertion.png)
 
 ## Grafico comparacion Search
 Este grafico muestra la comparacion del tiempo que se demora en buscar un valor del archivo .csv en nuestro arbol, cuando la variable MAX_KEYS es alterado con los siguientes valores (3-4-5).
 
-![Comparación de Búsqueda]("C:\Users\ASUS\ed\Estructura-de-datos\b_tree\grafico_search.png")
+![Comparación de Búsqueda](b_tree/grafico_search.png)
